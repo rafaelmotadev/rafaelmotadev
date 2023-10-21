@@ -9,7 +9,7 @@ Olá! Bem-vindo ao meu perfil no GitHub. Sou um profissional da área de TI com 
 ## Habilidades e Conhecimentos
 
 - **Certificações**: HTML, CSS, Javascript, Bootstrap, Python.
-- **Linguagem de Programação**: Conhecimentos em PHP.
+- **Linguagem de Programação**: Javascript,PHP.
 - **Metodologias Ágeis**: SCRUM.
 - **Versionamento**: Git e Github.
 - **Design Responsivo**: Criação de layouts adaptáveis.
