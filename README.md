@@ -39,7 +39,6 @@ Tenho experiência na área de suporte de TI, onde realizei as seguintes ativida
 <a href="https://www.linkedin.com/in/rafaelfsmota/">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align:middle">
 </a>
-
 <a href="mailto:coderafaelmota@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" style="vertical-align:middle">
 </a>
