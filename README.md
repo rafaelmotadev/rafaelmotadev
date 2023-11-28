@@ -43,9 +43,6 @@ Tenho experiência na área de suporte de TI, onde realizei as seguintes ativida
   <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" style="vertical-align:middle">
 </a>
 
-Se você está procurando por um profissional apaixonado pela tecnologia e dedicado ao seu trabalho, entre em contato comigo. Será um prazer conversar e mostrar como posso contribuir para sua empresa.
-
-
 ## Idioma
 
 - Inglês: C2 Proficient - EF SET (Listening and Reading).
